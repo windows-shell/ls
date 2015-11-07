@@ -1,0 +1,27 @@
+{
+  "name": "ls-dir",
+  "version": "1.0.1",
+  "description": "ls in windows",
+  "main": "index.js",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windows-shell/ls.git"
+  },
+  "keywords": [
+    "shell",
+    "ls",
+    "windows"
+  ],
+  "author": "murphy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windows-shell/ls/issues"
+  },
+  "homepage": "https://github.com/windows-shell/ls#readme"
+}
